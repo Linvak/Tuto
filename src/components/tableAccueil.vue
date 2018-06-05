@@ -31,7 +31,7 @@ export default {
     }
   },
   props: {
-    exchange: { default: 'binance' }
+    exchange: { default: 'gdax' }
   }
 }
 </script>
